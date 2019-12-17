@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Database'
+rootProject.name='CRUD Database'
